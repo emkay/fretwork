@@ -1,4 +1,6 @@
 # fretwork
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/emkay/fretwork.svg)](https://greenkeeper.io/)
 evenly distributed files
 
 ## Install
