@@ -4,6 +4,8 @@
   "description": "evenly distributed files",
   "main": "index.js",
   "scripts": {
+    "preversion": "npm t",
+    "release": "standard-version",
     "test": "tap test/*.js && standard"
   },
   "repository": {
